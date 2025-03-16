@@ -1,0 +1,91 @@
+body{
+    background-color: hsl(34, 78%, 91%);
+    text-align: center;
+}
+
+header{
+    background-color: hsl(33, 70%, 65%);
+    border-radius: 5px;
+    padding: 15px;
+}
+
+#firsth1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#navbar{
+    text-align: center
+}
+
+a{
+    text-decoration: none;
+    margin: 30px;
+    font-weight: bold;
+    color: maroon;
+    font-size: 20px;
+}
+a:hover{
+    background-color: aqua;
+    font-size: 25px;
+}
+
+h2{
+    text-align: center;
+    font-size: 2em;
+}    
+
+#aboutMePara{
+    text-align: center;
+}
+
+.aboutbox{
+    margin-top: 60px;
+}
+
+section{
+    background-color: white;
+    padding: 20px;
+    border: 2px solid #ddd;
+    width: 80%;
+    display: inline-block;
+    margin: 10px auto;
+}
+
+#softskills{
+    width: 40%;
+    float: left;
+}
+
+#hardskills{
+    width: 40%;
+    float: right;
+}
+
+ul li{
+    list-style: none;
+    background-color: hsl(34, 78%, 91%);
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+input{
+    border-radius: 5px;
+}
+
+#messageTitle{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#submitBtn{
+    font-size: 1.5em;
+    color: white;
+    border-radius: 5px;
+    background-color: hsl(202, 100%, 60%);
+}
+
+#submitBtn:hover{
+    background-color: hsl(211, 94%, 37%);
+}
